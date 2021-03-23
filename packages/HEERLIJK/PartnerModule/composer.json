@@ -1,0 +1,12 @@
+{
+    "name": "heerlijk/partner-module",
+    "description": "Module for connecting availability, reservations and so on to partnersystems",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Timo de Vent",
+            "email": "timo@heerlijk.nl"
+        }
+    ],
+    "require": {}
+}
