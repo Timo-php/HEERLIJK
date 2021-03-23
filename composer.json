@@ -8,5 +8,6 @@
             "email": "timo@heerlijk.nl"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
