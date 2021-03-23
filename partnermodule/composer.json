@@ -1,0 +1,13 @@
+{
+    "name": "heerlijk/partnermodule",
+    "description": "create connection with reservationsystems partners",
+    "type": "library",
+    "authors": [
+        {
+            "name": "timo14",
+            "email": "timo@heerlijk.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

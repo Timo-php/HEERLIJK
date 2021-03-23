@@ -1,2 +1,0 @@
-# HEERLIJK
-modules for HEERLIJK
